@@ -1,4 +1,4 @@
-Certainly! Here's a concise Python objects cheat sheet covering some fundamental concepts:
+Here's a concise Python objects cheat sheet covering some fundamental concepts:
 
 ### 1. **Classes and Objects:**
 ```python
